@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Арина\source\repos\Лаба №17\Source.cpp(59,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Арина\source\repos\Лаба №17\Source.cpp(59,15): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  Лаба №17.vcxproj -> C:\Users\Арина\source\repos\Лаба №17\Debug\Лаба №17.exe
